@@ -1,0 +1,54 @@
+{
+    "bajar_de_peso": {
+      "desayuno": [
+        "Avena con frutas y nueces",
+        "Yogur natural con granola",
+        "Tostadas integrales con aguacate y huevo"
+      ],
+      "almuerzo": [
+        "Ensalada de pollo con quinoa y tomate",
+        "Salmón a la parrilla con espárragos",
+        "Ensalada de atún con garbanzos"
+      ],
+      "cena": [
+        "Sopa de verduras y pechuga de pollo",
+        "Pechuga de pollo con ensalada verde",
+        "Tortilla de claras de huevo con espinacas"
+      ]
+    },
+    "subir_de_peso": {
+      "desayuno": [
+        "Huevos revueltos con aguacate y pan integral",
+        "Batido de proteínas con avena, plátano y mantequilla de maní",
+        "Tostadas con crema de almendras y miel"
+      ],
+      "almuerzo": [
+        "Pollo a la plancha con arroz integral y aguacate",
+        "Carne magra con papas al horno y ensalada",
+        "Pasta integral con pechuga de pollo y tomate"
+      ],
+      "cena": [
+        "Pescado a la parrilla con quinoa y vegetales",
+        "Ensalada de pollo con aceite de oliva y nueces",
+        "Tortilla de patatas con pavo y espinacas"
+      ]
+    },
+    "aumentar_masa_muscular": {
+      "desayuno": [
+        "Batido de proteínas con avena, leche y plátano",
+        "Tostadas integrales con aguacate y huevos revueltos",
+        "Yogur con granola y frutas rojas"
+      ],
+      "almuerzo": [
+        "Pechuga de pollo con arroz basmati y brócoli",
+        "Ensalada de atún con garbanzos, aguacate y espinacas",
+        "Salmón con batata y espárragos"
+      ],
+      "cena": [
+        "Carne magra con ensalada de aguacate y tomate",
+        "Pechuga de pavo con quinoa y vegetales",
+        "Ensalada de pollo con aguacate, pepino y aceite de oliva"
+      ]
+    }
+  }
+  

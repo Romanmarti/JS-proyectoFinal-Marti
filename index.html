@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador de Rutinas de Gimnasio</title>
+    <link rel="stylesheet" href="styles.css">
+    <link href="https://cdn.jsdelivr.net/npm/sweetalert2@11/dist/sweetalert2.min.css" rel="stylesheet">
+
+
+</head>
+<body>
+    <div id="container">
+        <h1>Generador de Rutinas de Gimnasio</h1>
+
+        <!-- Formulario de registro -->
+        <div id="registroForm">
+            <h2>Registro</h2>
+            <form id="registro">
+                <label for="username">Nombre de usuario:</label>
+                <input type="text" id="username" required>
+                <label for="password">Contraseña:</label>
+                <input type="password" id="password" required>
+                <button type="submit">Registrarse</button>
+            </form>
+        </div>
+
+        <!-- Formulario de inicio de sesión -->
+        <div id="loginForm">
+            <h2>Iniciar sesión</h2>
+            <form id="login">
+                <label for="loginUsername">Nombre de usuario:</label>
+                <input type="text" id="loginUsername" required>
+                <label for="loginPassword">Contraseña:</label>
+                <input type="password" id="loginPassword" required>
+                <button type="submit">Iniciar sesión</button>
+            </form>
+        </div>
+
+        <!-- Contenido accesible solo después de iniciar sesión -->
+        <div id="contenido" style="display:none;">
+            <h2>Bienvenido, <span id="usuarioNombre"></span></h2>
+            <button id="logoutButton">Cerrar sesión</button>
+            <!-- Formulario para seleccionar días y grupos musculares -->
+            <form id="rutinaForm">
+                <!-- Formulario para seleccionar la meta -->
+                <h3>Selecciona una meta</h3>
+            <select id="seleccionarMeta">
+                <option value="-">Elegir opción </option>
+                <option value="bajar_de_peso">Bajar de peso</option>
+                <option value="subir_de_peso">Subir de peso</option>
+                <option value="aumentar_masa_muscular">Aumentar masa muscular</option>
+            </select>
+            
+            <!-- Contenedor donde se mostrará la dieta -->
+            <div id="resultadoDieta"></div>
+  
+                <div>
+                    <label for="dias">Número de días de entrenamiento:</label>
+                    <input type="number" id="dias" name="dias" min="1" max="7">
+                </div>
+
+                <div id="diasSeleccionados">
+                    <!-- Aquí se generarán los selectores de grupos musculares según los días -->
+                </div>
+
+                <button type="submit">Generar Rutina</button>
+            </form>
+            <!-- Resultado de la rutina generada -->
+            <div id="resultado">
+                <!-- Los resultados de la rutina se mo  strarán aquí -->
+            </div>
+
+            <!-- Historial de entrenamientos -->
+            <div id="historial">
+                <h2>Historial de entrenamientos</h2>
+            </div>
+        </div>
+    </div>
+    <script src="script.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+
+</body>
+</html>

@@ -1,0 +1,306 @@
+{
+    "pecho": [
+      {
+        "nombre": "Press de banca",
+        "series": 4,
+        "repeticiones": 10,
+        "descripcion": "El press de banca es un ejercicio fundamental para trabajar el pecho, utilizando una barra. Es ideal para aumentar la fuerza y el tamaño muscular en la parte superior del cuerpo.",
+        "pros": ["Aumenta la fuerza en el tren superior", "Trabaja de forma efectiva el pectoral mayor"],
+        "contras": ["Requiere un buen control técnico", "Puede generar tensión en los hombros si se realiza mal"]
+      },
+      {
+        "nombre": "Flexiones",
+        "series": 3,
+        "repeticiones": 15,
+        "descripcion": "Las flexiones son un ejercicio clásico que trabaja el pecho, los tríceps y los hombros. Son excelentes para mejorar la fuerza funcional sin necesidad de equipo.",
+        "pros": ["No requiere equipo", "Mejora la fuerza y resistencia muscular"],
+        "contras": ["Puede ser difícil para principiantes", "No es tan eficaz para hipertrofia como los ejercicios con pesas"]
+      },
+      {
+        "nombre": "Aperturas con mancuernas",
+        "series": 3,
+        "repeticiones": 12,
+        "descripcion": "Las aperturas con mancuernas son ideales para estirar y activar los músculos del pecho, especialmente los pectorales mayores, mientras trabajas en su amplitud.",
+        "pros": ["Mejora la amplitud del pecho", "Activa fibras musculares diferentes a las del press de banca"],
+        "contras": ["Requiere control para evitar lesiones", "No trabaja tan intensamente los tríceps"]
+      },
+      {
+        "nombre": "Press inclinado",
+        "series": 4,
+        "repeticiones": 10,
+        "descripcion": "El press inclinado se enfoca en la parte superior del pecho y en los hombros. Es una variación del press de banca que ofrece un ángulo diferente.",
+        "pros": ["Desarrolla la parte superior del pecho", "Involucra los hombros para un trabajo más completo"],
+        "contras": ["Mayor riesgo para los hombros si no se realiza bien", "Exige una postura adecuada para evitar lesiones"]
+      },
+      {
+        "nombre": "Fondos",
+        "series": 4,
+        "repeticiones": 8,
+        "descripcion": "Los fondos son un ejercicio de peso corporal que trabaja principalmente el pecho, pero también involucra los tríceps y los hombros.",
+        "pros": ["Excelente para trabajar el pecho y tríceps", "No requiere equipo sofisticado"],
+        "contras": ["Puede ser difícil para principiantes", "Es fácil caer en malas posturas si no se tiene control"]
+      },
+      {
+        "nombre": "Pull-over",
+        "series": 3,
+        "repeticiones": 12,
+        "descripcion": "El pull-over es un ejercicio que involucra principalmente el pecho y la espalda. Ayuda a expandir el pecho y estirar los músculos de la parte superior.",
+        "pros": ["Activa tanto el pecho como la espalda", "Mejora la amplitud del pecho y la movilidad"],
+        "contras": ["Requiere una técnica precisa", "No es tan efectivo para hipertrofia como otros ejercicios de pecho"]
+      }
+    ],
+    "biceps": [
+      {
+        "nombre": "Curl de bíceps con barra",
+        "series": 4,
+        "repeticiones": 12,
+        "descripcion": "El curl de bíceps con barra es uno de los ejercicios más efectivos para desarrollar la fuerza y masa muscular en los bíceps.",
+        "pros": ["Aisla bien los bíceps", "Facilita un control total del movimiento"],
+        "contras": ["Puede sobrecargar las muñecas", "Requiere un agarre fuerte para evitar lesiones"]
+      },
+      {
+        "nombre": "Curl martillo",
+        "series": 3,
+        "repeticiones": 12,
+        "descripcion": "El curl martillo es una variación del curl tradicional que trabaja no solo los bíceps, sino también el antebrazo.",
+        "pros": ["Activa el braquial, un músculo importante", "Mejora la fuerza en el antebrazo"],
+        "contras": ["Puede ser más difícil de dominar para principiantes", "Requiere una buena postura para evitar lesiones"]
+      },
+      {
+        "nombre": "Curl concentrado",
+        "series": 3,
+        "repeticiones": 12,
+        "descripcion": "El curl concentrado se realiza sentado y enfocado en un solo brazo a la vez, aislando completamente los bíceps.",
+        "pros": ["Mayor concentración en el bíceps", "Minimiza el uso de otros músculos"],
+        "contras": ["Solo trabaja un brazo a la vez", "Requiere mucha concentración y control"]
+      },
+      {
+        "nombre": "Curl con mancuernas",
+        "series": 4,
+        "repeticiones": 10,
+        "descripcion": "El curl con mancuernas es similar al curl con barra, pero permite una mayor libertad de movimiento y menos estrés en las muñecas.",
+        "pros": ["Permite un rango de movimiento más amplio", "Menor riesgo de lesiones en muñecas"],
+        "contras": ["Es fácil balancearse si no se tiene buena técnica", "Se necesita un control extra de los pesos"]
+      },
+      {
+        "nombre": "Curl de bíceps en banco inclinado",
+        "series": 3,
+        "repeticiones": 12,
+        "descripcion": "Este ejercicio se realiza en un banco inclinado, lo que aumenta el estiramiento y la activación de los bíceps durante el movimiento.",
+        "pros": ["Aislamiento total del bíceps", "Genera un estiramiento más profundo del músculo"],
+        "contras": ["Puede ser incómodo para los hombros", "Requiere un banco y mancuernas"]
+      },
+      {
+        "nombre": "Curl spider",
+        "series": 3,
+        "repeticiones": 10,
+        "descripcion": "El curl spider se hace en banco inclinado, apoyando el pecho en el banco mientras se realiza el curl, enfocándose completamente en los bíceps.",
+        "pros": ["Evita el balanceo del cuerpo", "Enfoca el trabajo directamente en los bíceps"],
+        "contras": ["Difícil de realizar sin el equipo adecuado", "El banco puede ser incómodo para algunos usuarios"]
+      }
+    ],
+    "triceps": [
+      {
+        "nombre": "Fondos en paralelas",
+        "series": 4,
+        "repeticiones": 10,
+        "descripcion": "Los fondos en paralelas son un ejercicio clave para trabajar el triceps, utilizando el propio peso corporal para la resistencia.",
+        "pros": ["Trabaja intensamente los tríceps", "Mejora la fuerza en los hombros y pecho"],
+        "contras": ["Puede ser muy difícil para principiantes", "Es fácil realizarlo mal si no se tiene una buena técnica"]
+      },
+      {
+        "nombre": "Extensiones de tríceps con cuerda",
+        "series": 3,
+        "repeticiones": 12,
+        "descripcion": "Este ejercicio se realiza en la máquina de poleas y se enfoca en la extensión del tríceps usando una cuerda.",
+        "pros": ["Aísla los tríceps", "Permite un buen control sobre el movimiento"],
+        "contras": ["Puede ser difícil de realizar sin equipo adecuado", "Requiere una técnica adecuada para evitar tensiones en los codos"]
+      },
+      {
+        "nombre": "Press francés",
+        "series": 4,
+        "repeticiones": 10,
+        "descripcion": "El press francés es un ejercicio para el tríceps que se realiza en un banco plano o inclinado con una barra o mancuernas.",
+        "pros": ["Desarrolla la parte larga del tríceps", "Permite un enfoque controlado del movimiento"],
+        "contras": ["Requiere una buena técnica para evitar lesiones en los codos", "Puede ser difícil para principiantes"]
+      },
+      {
+        "nombre": "Patada de tríceps",
+        "series": 3,
+        "repeticiones": 12,
+        "descripcion": "La patada de tríceps se realiza con una mancuerna y trabaja los tríceps mediante una extensión del brazo hacia atrás.",
+        "pros": ["Aisla bien los tríceps", "Se puede hacer con mancuernas fácilmente"],
+        "contras": ["Requiere estabilidad en la postura", "Puede generar incomodidad si se hace mal"]
+      },
+      {
+        "nombre": "Extensiones de tríceps en máquina",
+        "series": 3,
+        "repeticiones": 10,
+        "descripcion": "Las extensiones en máquina son un ejercicio popular para trabajar los tríceps de manera controlada.",
+        "pros": ["Facilita el aislamiento de los tríceps", "Minimiza el riesgo de lesiones"],
+        "contras": ["Se requiere una máquina específica", "Puede ser menos efectivo para ganar masa muscular comparado con ejercicios compuestos"]
+      },
+      {
+        "nombre": "Rompecráneos",
+        "series": 4,
+        "repeticiones": 8,
+        "descripcion": "El rompetráneos es un ejercicio popular para trabajar los tríceps usando una barra EZ.",
+        "pros": ["Activa eficazmente los tríceps", "Permite usar pesas pesadas"],
+        "contras": ["Requiere una buena técnica para evitar lesiones en los codos", "Puede generar tensión si no se controla el movimiento"]
+      }
+    ],
+    
+        "hombros": [
+          {
+            "nombre": "Press militar",
+            "series": 4,
+            "repeticiones": 10,
+            "descripcion": "El press militar es uno de los mejores ejercicios para trabajar los hombros, utilizando una barra o mancuernas para levantar el peso sobre la cabeza.",
+            "pros": ["Desarrolla los deltoides", "Aumenta la fuerza en el tren superior"],
+            "contras": ["Puede generar tensión en los hombros si no se realiza correctamente", "Requiere una buena postura para evitar lesiones"]
+          },
+          {
+            "nombre": "Elevaciones laterales",
+            "series": 3,
+            "repeticiones": 12,
+            "descripcion": "Las elevaciones laterales se enfocan en el desarrollo de los deltoides laterales, mejorando la anchura de los hombros.",
+            "pros": ["Aísla los deltoides laterales", "Mejora la estética del hombro"],
+            "contras": ["Puede ser difícil de ejecutar correctamente sin balancear el cuerpo", "Requiere control y técnica"]
+          },
+          {
+            "nombre": "Pájaros",
+            "series": 3,
+            "repeticiones": 12,
+            "descripcion": "Las elevaciones posteriores o pájaros trabajan la parte posterior del hombro, ayudando a equilibrar el desarrollo del músculo.",
+            "pros": ["Fortalece la parte posterior del hombro", "Mejora la postura y la simetría muscular"],
+            "contras": ["Puede ser difícil aislar el músculo", "Requiere control para evitar lesiones en la parte superior de la espalda"]
+          },
+          {
+            "nombre": "Press Arnold",
+            "series": 4,
+            "repeticiones": 10,
+            "descripcion": "El press Arnold es una variación del press militar que involucra una rotación en el movimiento, lo que activa todas las cabezas del deltoides.",
+            "pros": ["Desarrolla de forma completa los hombros", "Involucra rotación para mayor activación muscular"],
+            "contras": ["Puede ser más difícil para principiantes", "Requiere una técnica precisa"]
+          }
+        ],
+        "espalda": [
+          {
+            "nombre": "Dominadas",
+            "series": 4,
+            "repeticiones": 8,
+            "descripcion": "Las dominadas son uno de los mejores ejercicios para desarrollar la espalda, especialmente el dorsal, utilizando el propio peso corporal.",
+            "pros": ["Excelente para trabajar la espalda", "Fortalece los músculos del tren superior"],
+            "contras": ["Difícil para principiantes", "Requiere barra y espacio adecuado"]
+          },
+          {
+            "nombre": "Remo con barra",
+            "series": 4,
+            "repeticiones": 10,
+            "descripcion": "El remo con barra trabaja principalmente la espalda media, enfocándose en los dorsales y los músculos posteriores del hombro.",
+            "pros": ["Activa la espalda media y baja", "Mejora la postura y la fuerza del tronco"],
+            "contras": ["Requiere control para evitar lesiones en la espalda baja", "Puede ser difícil de dominar si no se tiene experiencia"]
+          },
+          {
+            "nombre": "Peso muerto",
+            "series": 4,
+            "repeticiones": 8,
+            "descripcion": "El peso muerto es un ejercicio compuesto que trabaja la espalda baja, los glúteos y los isquiotibiales. Es uno de los movimientos más completos para el tren inferior y superior.",
+            "pros": ["Fortalece la espalda baja", "Mejora la fuerza general del cuerpo"],
+            "contras": ["Requiere una técnica perfecta para evitar lesiones", "Puede ser muy demandante físicamente"]
+          },
+          {
+            "nombre": "Pull-over con mancuerna",
+            "series": 3,
+            "repeticiones": 12,
+            "descripcion": "El pull-over con mancuerna se enfoca en la parte superior de la espalda y el pecho, ayudando a expandir la caja torácica y a activar el dorsal.",
+            "pros": ["Trabaja tanto el pecho como la espalda", "Mejora la movilidad de los hombros y el torso"],
+            "contras": ["Requiere una técnica precisa para evitar tensión en los hombros", "No es tan efectivo para hipertrofia de espalda como otros ejercicios"]
+          }
+        ],
+        "piernas": [
+          {
+            "nombre": "Sentadillas",
+            "series": 4,
+            "repeticiones": 10,
+            "descripcion": "Las sentadillas son uno de los mejores ejercicios para trabajar las piernas, enfocándose en los cuadriceps, glúteos y femorales.",
+            "pros": ["Desarrolla la fuerza en las piernas", "Mejora la movilidad de las caderas y tobillos"],
+            "contras": ["Requiere una técnica adecuada para evitar lesiones en las rodillas y la espalda baja", "Puede ser difícil para principiantes sin supervisión"]
+          },
+          {
+            "nombre": "Prensa de piernas",
+            "series": 4,
+            "repeticiones": 12,
+            "descripcion": "La prensa de piernas es una excelente opción para aislar las piernas y enfocarse en los cuadriceps, glúteos y femorales.",
+            "pros": ["Mayor control en el movimiento", "Permite usar más peso que en las sentadillas"],
+            "contras": ["No trabaja tan activamente los músculos estabilizadores", "Requiere equipo específico"]
+          },
+          {
+            "nombre": "Zancadas",
+            "series": 3,
+            "repeticiones": 12,
+            "descripcion": "Las zancadas son un ejercicio excelente para trabajar los cuádriceps, glúteos y femorales, involucrando un movimiento de deslizamiento hacia adelante.",
+            "pros": ["Mejora el equilibrio y la coordinación", "Desarrolla la fuerza en una pierna a la vez"],
+            "contras": ["Requiere concentración y control para evitar lesiones", "Puede ser difícil para quienes tienen problemas de rodillas"]
+          },
+          {
+            "nombre": "Extensiones de pierna",
+            "series": 4,
+            "repeticiones": 12,
+            "descripcion": "Las extensiones de pierna se enfocan en los cuádriceps, utilizando una máquina para aislar el movimiento.",
+            "pros": ["Aísla los cuádriceps", "Ideal para enfocar el trabajo en las piernas"],
+            "contras": ["No trabaja tanto los glúteos o femorales", "Puede generar tensión en la rodilla si no se realiza correctamente"]
+          },
+          {
+            "nombre": "Sentadillas búlgaras",
+            "series": 3,
+            "repeticiones": 12,
+            "descripcion": "Las sentadillas búlgaras son una variación de las sentadillas que se realizan con una pierna elevada en un banco. Este ejercicio aísla más cada pierna y trabaja intensamente los cuádriceps y glúteos.",
+            "pros": ["Trabaja intensamente los cuádriceps y glúteos", "Mejora el equilibrio y la estabilidad"],
+            "contras": ["Puede ser difícil para principiantes", "Requiere un banco o superficie elevada"]
+          },
+          {
+            "nombre": "Elevación de talones (gemelos)",
+            "series": 4,
+            "repeticiones": 15,
+            "descripcion": "La elevación de talones es un ejercicio clásico para trabajar los músculos de los gemelos. Se puede hacer de pie o sentado, y permite un enfoque completo de los músculos de la pantorrilla.",
+            "pros": ["Trabaja eficazmente los gemelos", "Fácil de realizar en cualquier lugar"],
+            "contras": ["No involucra otras partes de las piernas", "Requiere un control para evitar lesiones en los tobillos"]
+          }
+        ],
+        "abdomen": [
+          {
+            "nombre": "Crunches",
+            "series": 4,
+            "repeticiones": 20,
+            "descripcion": "Los crunches son uno de los ejercicios más populares para trabajar los músculos abdominales, enfocándose en la parte superior del abdomen.",
+            "pros": ["Fácil de realizar", "No requiere equipo"],
+            "contras": ["Solo trabaja la parte superior del abdomen", "Puede ser difícil para las personas con dolor de espalda"]
+          },
+          {
+            "nombre": "Elevaciones de pierna",
+            "series": 4,
+            "repeticiones": 15,
+            "descripcion": "Las elevaciones de pierna trabajan la parte inferior del abdomen, enfocándose en los músculos del abdomen inferior y los flexores de la cadera.",
+            "pros": ["Activa el abdomen inferior", "Mejora la fuerza de las caderas"],
+            "contras": ["Puede generar presión en la zona lumbar", "Requiere una buena técnica para evitar el balanceo"]
+          },
+          {
+            "nombre": "Plancha",
+            "series": 3,
+            "repeticiones": "Mantener 30 segundos",
+            "descripcion": "La plancha es un ejercicio isométrico que trabaja el abdomen, la espalda baja y los hombros. Se mantiene una posición recta desde los pies hasta la cabeza.",
+            "pros": ["Trabaja múltiples grupos musculares a la vez", "Mejora la estabilidad y la resistencia"],
+            "contras": ["Difícil para quienes tienen poca fuerza central", "Puede ser incómodo para los principiantes"]
+          },
+          {
+            "nombre": "Bicicleta en el aire",
+            "series": 4,
+            "repeticiones": 20,
+            "descripcion": "El ejercicio de bicicleta en el aire es una variante de los abdominales tradicionales que también trabaja los oblicuos.",
+            "pros": ["Activa los oblicuos y el abdomen", "Mejora la coordinación y el control corporal"],
+            "contras": ["Requiere coordinación para evitar movimientos incorrectos", "Puede ser difícil para los principiantes"]
+          }
+        ]
+      }
+      

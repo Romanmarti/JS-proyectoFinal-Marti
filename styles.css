@@ -1,0 +1,321 @@
+/* Estilos básicos para el body y el contenedor principal */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#container {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 600px;
+}
+
+h1 {
+    text-align: center;
+    color: #333;
+}
+
+h2 {
+    color: #333;
+    margin-bottom: 10px;
+}
+
+/* Estilo para los formularios */
+form {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+input[type="text"], input[type="password"], input[type="number"] {
+    
+    padding: 10px;
+    border: 2px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+}
+
+button {
+    padding: 10px 20px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+button:disabled {
+    background-color: #ddd;
+    cursor: not-allowed;
+}
+
+/* Estilos para el formulario de registro y login */
+#registroForm, #loginForm {
+    padding: 15px;
+    border-radius: 8px;
+    background-color: #f9f9f9;
+    margin-bottom: 20px;
+}
+
+/* Estilos para el contenido después de iniciar sesión */
+#contenido {
+    display: none;
+}
+
+/* Estilos para el historial de entrenamientos */
+#historial {
+    margin-top: 30px;
+}
+
+#diasSeleccionados {
+    margin-top: 20px;
+}
+
+/* Estilos para los días seleccionados */
+#diasSeleccionados div {
+    background-color: #f9f9f9;
+    padding: 15px;
+    margin-bottom: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+#diasSeleccionados select {
+    padding: 10px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+
+#resultado {
+    margin-top: 20px;
+    background-color: #f9f9f9;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+h3, h4, h5 {
+    color: #333;
+}
+
+p {
+    color: #555;
+    margin: 5px 0;
+}
+
+#logoutButton {
+    padding: 10px 20px;
+    background-color: #FF4136;
+    color: #fff;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    margin-top: 20px;
+}
+
+#logoutButton:hover {
+    background-color: #c0392b;
+}
+/* Estilos para el historial de entrenamientos */
+#historial {
+    margin-top: 30px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+/* Estilos para el historial de entrenamientos */
+#historial {
+    margin-top: 30px;
+    background-color: #f9f9f9;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+}
+
+#historial h2 {
+    color: #333;
+    text-align: center;
+}
+
+#historial .entrenamiento {
+    background-color: #fff;
+    padding: 15px;
+    margin: 10px 0;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.05);
+}
+
+#historial .entrenamiento h3 {
+    color: #007BFF;
+    font-size: 18px;
+    margin: 0;
+}
+
+#historial .entrenamiento .fecha {
+    font-size: 12px;
+    color: #888;
+}
+
+#historial .entrenamiento .dia {
+    margin-top: 10px;
+}
+
+#historial .entrenamiento .dia h4 {
+    color: #333;
+    margin-bottom: 8px;
+}
+
+#historial .entrenamiento .grupo {
+    margin: 5px 0;
+    font-size: 14px;
+    color: #555;
+}
+/* Contenedor principal */
+#contenido {
+    margin: 20px;
+}
+
+/* Sección de los filtros */
+#filtros {
+    margin-bottom: 20px;
+}
+
+/* Estilos para los grupos de ejercicios */
+.grupo {
+    margin-bottom: 20px;
+    background-color: #fff;
+    padding: 10px;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.grupo h3 {
+    font-size: 1.2em;
+}
+
+.grupo h4 {
+    font-size: 1.1em;
+    margin-top: 10px;
+}
+
+.grupo p {
+    font-size: 1em;
+    margin: 5px 0;
+}
+
+/* Botones */
+button {
+    padding: 10px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+input[type="checkbox"] {
+    margin-right: 5px;
+}
+/* Contenedor principal */
+#resultadoDieta {
+    width: 80%;
+    max-width: 800px;
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    padding: 30px;
+    margin-top: 20px;
+}
+
+/* Títulos de sección (Desayuno, Almuerzo, Cena) */
+h3 {
+    font-size: 24px;
+    color: #333;
+    margin-bottom: 10px;
+    font-weight: 600;
+    border-bottom: 2px solid #e5e5e5;
+    padding-bottom: 5px;
+}
+
+/* Elementos de cada comida (platos) */
+.comida p {
+    font-size: 18px;
+    color: #555;
+    margin: 8px 0;
+    line-height: 1.6;
+}
+
+/* Estilo para el selector de meta */
+#seleccionarMeta {
+    font-size: 18px;
+    padding: 10px;
+    border-radius: 5px;
+    border: 2px solid #ddd;
+    background-color: #fff;
+    color: #333;
+    width: 200px;
+    margin-top: 30px;
+    display: block;
+    transition: 0.3s;
+}
+
+#seleccionarMeta:hover {
+    border-color: #6c63ff;
+    background-color: #f3f3ff;
+}
+
+/* Contenedor de las opciones */
+.select-container {
+    text-align: center;
+}
+
+/* Diseño de contenedor de cada comida */
+.comida {
+    margin-bottom: 20px;
+}
+
+/* Efecto de transición en los textos */
+.comida p {
+    transition: color 0.3s ease;
+}
+
+.comida p:hover {
+    color: #6c63ff;
+}
+
+/* Estilo del contenedor de resultados */
+#resultadoDieta {
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+    margin-top: 20px;
+}
+
+/* Estilo para las opciones en la lista */
+option {
+    padding: 10px;
+    background-color: #fff;
+    color: #333;
+}

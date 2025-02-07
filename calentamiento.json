@@ -1,0 +1,213 @@
+{
+    "pecho": {
+      "calentamiento": [
+        {
+          "nombre": "Rotaciones de brazos",
+          "descripcion": "Ejercicio para calentar los hombros y los músculos del pecho.",
+          "pros": "Prepara los músculos para el esfuerzo.",
+          "contras": "No es suficiente para trabajar la fuerza."
+        },
+        {
+          "nombre": "Flexiones suaves",
+          "descripcion": "Flexiones de bajo esfuerzo para activar el pecho.",
+          "pros": "Activa el pecho sin agotarlo.",
+          "contras": "No es un calentamiento intenso."
+        }
+      ],
+      "estiramientos": [
+        {
+          "nombre": "Estiramiento de pectorales",
+          "descripcion": "Estiramiento para liberar la tensión en los músculos del pecho.",
+          "pros": "Previene lesiones y mejora la flexibilidad.",
+          "contras": "Si se realiza incorrectamente, puede causar molestias."
+        },
+        {
+          "nombre": "Estiramiento de hombros",
+          "descripcion": "Estiramiento para los hombros después del entrenamiento de pecho.",
+          "pros": "Alivia la tensión en los hombros.",
+          "contras": "Debe ser realizado con cuidado para evitar lesiones."
+        }
+      ]
+    },
+    "espalda": {
+      "calentamiento": [
+        {
+          "nombre": "Estiramiento de gato-vaca",
+          "descripcion": "Alterna entre arquear la espalda hacia abajo (vaca) y hacia arriba (gato) de manera controlada."
+        },
+        {
+          "nombre": "Rotaciones de torso",
+          "descripcion": "Realiza rotaciones del torso hacia ambos lados mientras mantienes la espalda recta."
+        },
+        {
+          "nombre": "Puente de glúteos",
+          "descripcion": "Levanta las caderas mientras aprietas los glúteos, manteniendo los talones firmes en el suelo."
+        }
+      ],
+      "estiramientos": [
+        {
+          "nombre": "Estiramiento de espalda baja",
+          "descripcion": "Sentado en el suelo, lleva las piernas hacia el pecho mientras estiras la espalda baja.",
+          "pros": "Alivia la tensión en la zona lumbar.",
+          "contras": "Debe ser realizado con cuidado para evitar lesiones en la columna."
+        },
+        {
+          "nombre": "Estiramiento de torso",
+          "descripcion": "Con las piernas extendidas, gira el torso hacia un lado mientras mantienes la cadera en su lugar.",
+          "pros": "Mejora la flexibilidad y la movilidad del torso.",
+          "contras": "Realizarlo rápidamente puede generar molestias."
+        }
+      ]
+    },
+    "biceps": {
+      "calentamiento": [
+        {
+          "nombre": "Curl con banda elástica",
+          "descripcion": "Utiliza una banda elástica para realizar un movimiento de curl de bíceps."
+        },
+        {
+          "nombre": "Rotación de muñeca",
+          "descripcion": "Gira las muñecas en círculos para calentar las articulaciones."
+        },
+        {
+          "nombre": "Extensiones de tríceps",
+          "descripcion": "Este ejercicio activa tanto los bíceps como los tríceps."
+        }
+      ],
+      "estiramientos": [
+        {
+          "nombre": "Estiramiento de bíceps en pared",
+          "descripcion": "Coloca la mano en una pared a la altura del hombro y gira el torso para estirar el bíceps.",
+          "pros": "Estira el bíceps de forma efectiva.",
+          "contras": "Puede causar molestias si no se realiza con control."
+        },
+        {
+          "nombre": "Estiramiento de bíceps en el suelo",
+          "descripcion": "Colócate de pie, extiende los brazos hacia atrás y estira los bíceps.",
+          "pros": "Es un estiramiento fácil de realizar.",
+          "contras": "Algunos pueden encontrarlo incómodo."
+        }
+      ]
+    },
+    "hombros": {
+      "calentamiento": [
+        {
+          "nombre": "Rotaciones de hombros",
+          "descripcion": "Realiza círculos con los hombros hacia adelante y hacia atrás."
+        },
+        {
+          "nombre": "Elevación lateral con mancuernas",
+          "descripcion": "Utiliza mancuernas ligeras para elevar los brazos lateralmente."
+        },
+        {
+          "nombre": "Deslizamiento de hombros",
+          "descripcion": "Desliza los hombros hacia arriba y hacia abajo mientras mantienes los brazos relajados."
+        }
+      ],
+      "estiramientos": [
+        {
+          "nombre": "Estiramiento de hombros cruzando brazo",
+          "descripcion": "Cruza un brazo sobre el pecho y utiliza el otro brazo para estirarlo hacia tu torso.",
+          "pros": "Alivia la tensión acumulada en los hombros.",
+          "contras": "No debe forzarse el brazo más allá de su rango cómodo."
+        },
+        {
+          "nombre": "Estiramiento de hombros con toalla",
+          "descripcion": "Sujeta una toalla con ambas manos por detrás de la espalda y tira de ella para estirar los hombros.",
+          "pros": "Estira eficientemente los hombros y la espalda superior.",
+          "contras": "Es importante no tirar demasiado fuerte para evitar lesiones."
+        }
+      ]
+    },
+    "piernas": {
+      "calentamiento": [
+        {
+          "nombre": "Sentadillas con el peso corporal",
+          "descripcion": "Realiza sentadillas para calentar las piernas y las caderas."
+        },
+        {
+          "nombre": "Zancadas hacia adelante",
+          "descripcion": "Haz zancadas largas alternando pierna tras pierna."
+        },
+        {
+          "nombre": "Flexión de pierna y extensión de cadera",
+          "descripcion": "Flexiona una pierna hacia el pecho y luego extiende la cadera hacia atrás."
+        }
+      ],
+      "estiramientos": [
+        {
+          "nombre": "Estiramiento de cuádriceps",
+          "descripcion": "De pie, agarra el tobillo y lleva el talón hacia los glúteos para estirar los cuádriceps.",
+          "pros": "Estiramiento profundo para los cuádriceps.",
+          "contras": "Puede causar presión en la rodilla si no se hace correctamente."
+        },
+        {
+          "nombre": "Estiramiento de isquiotibiales",
+          "descripcion": "Con una pierna extendida, inclina el torso hacia adelante para estirar los isquiotibiales.",
+          "pros": "Estira eficientemente los isquiotibiales.",
+          "contras": "Puede ser difícil para personas con poca flexibilidad."
+        }
+      ]
+    },
+    "abdomen": {
+      "calentamiento": [
+        {
+          "nombre": "Torsiones rusas",
+          "descripcion": "Siéntate en el suelo y gira el torso hacia los lados manteniendo una postura controlada."
+        },
+        {
+          "nombre": "Plancha",
+          "descripcion": "Sostén la posición de plancha durante 30 segundos para activar los músculos abdominales."
+        },
+        {
+          "nombre": "Elevación de piernas",
+          "descripcion": "Eleva las piernas mientras mantienes la espalda apoyada."
+        }
+      ],
+      "estiramientos": [
+        {
+          "nombre": "Estiramiento de abdominales",
+          "descripcion": "Acostado, levanta el torso con los brazos para estirar los abdominales.",
+          "pros": "Alivia la tensión en la zona abdominal.",
+          "contras": "No debe realizarse en exceso si tienes dolor lumbar."
+        },
+        {
+          "nombre": "Estiramiento de cobra",
+          "descripcion": "Acostado boca abajo, eleva el torso con los brazos, estirando el abdomen.",
+          "pros": "Ideal para estirar los músculos abdominales.",
+          "contras": "Evita este estiramiento si sufres de dolor en la espalda baja."
+        }
+      ]
+    },
+    "triceps": {
+      "calentamiento": [
+        {
+          "nombre": "Flexión de codos",
+          "descripcion": "Realiza flexiones de codo sin peso para activar los tríceps."
+        },
+        {
+          "nombre": "Fondos de tríceps en banco",
+          "descripcion": "Realiza fondos utilizando un banco para trabajar los tríceps."
+        },
+        {
+          "nombre": "Estiramiento dinámico de tríceps",
+          "descripcion": "Levanta un brazo por encima de la cabeza y empuja el codo hacia abajo con la otra mano."
+        }
+      ],
+      "estiramientos": [
+        {
+          "nombre": "Estiramiento de tríceps sobre la cabeza",
+          "descripcion": "Levanta un brazo sobre la cabeza y flexiona el codo para llevar la mano hacia la espalda. Usa la otra mano para empujar el codo hacia abajo.",
+          "pros": "Estira los tríceps y los hombros.",
+          "contras": "Requiere flexibilidad en los hombros."
+        },
+        {
+          "nombre": "Estiramiento de tríceps en pared",
+          "descripcion": "Coloca la mano en una pared a la altura del hombro y empuja el codo hacia el lado opuesto para estirar los tríceps.",
+          "pros": "Muy efectivo para estirar los tríceps.",
+          "contras": "Puede no ser tan accesible si no se tiene un lugar adecuado."
+        }
+      ]
+    }
+  }
+  
