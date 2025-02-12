@@ -3,8 +3,8 @@
 
     // Cargar los archivos JSON de ejercicios y calentamiento
     Promise.all([
-        fetch('../ejercicios.json').then(response => response.json()),
-        fetch('../calentamiento.json').then(response => response.json())
+        fetch('./ejercicios.json').then(response => response.json()),
+        fetch('./calentamiento.json').then(response => response.json())
         .catch(error => console.error("Error al cargar datos:", error))
     ])
     .then(([ejercicios, calentamiento]) => {
@@ -260,7 +260,7 @@ function mostrarAlerta() {
             });
         }
     });
-        fetch('dieta.json')
+        fetch('./dieta.json')
         .then(response => response.json())
         .then(dietas => {
             function mostrarDieta(meta) {
